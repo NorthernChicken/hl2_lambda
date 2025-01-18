@@ -11,5 +11,6 @@ Requires Python and Git.
 - If you aren't using Windows or you installed Steam to a different drive/folder, you need to manually change the Steam directory variable. Open the python file in a text editor and change the ``STEAMAPPS`` variable to the path of your ``/steamapps/common`` folder. If you don't know where it is, open Steam>Settings>Storage>Three dots>Browse Folder. Make sure you copy the path of the ``common`` folder.
 - Run the script with ``python hl2_lambda``
 - Go to all the locations it tells you to and find the Caches for the achievement.
+- If you need more help or more specific locations for the caches, see this guide: https://steamcommunity.com/sharedfiles/filedetails/?id=2442786989
 
 ![Screenshot_20250118_094647](https://github.com/user-attachments/assets/5c486835-dad5-46ec-bffb-6b793949349f)
