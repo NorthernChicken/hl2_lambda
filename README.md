@@ -9,5 +9,6 @@ I have updated the script with more QOL features as well as updating it to work 
 Requires Python and Git.
 - Clone the repo in a terminal: ``git clone https://github.com/NorthernChicken/hl2_lambda``, enter the new directory ``cd hl2_lambda``
 - Run the script with ``python hl2_lambda``
+- Go to all the locations it tells you to and find the Caches for the achievement.
 
 ![Screenshot_20250118_094647](https://github.com/user-attachments/assets/5c486835-dad5-46ec-bffb-6b793949349f)
