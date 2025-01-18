@@ -1,11 +1,16 @@
-"""Find the missing lambda cache locations in Half Life 2."""
+"""
+Find the missing lambda cache locations in Half Life 2.
+This script was originally written by huntfx in this Gist: https://gist.github.com/huntfx/ba8dde26845f7eb4f5dd604d5200d709
+It has been updated by NorthernChicken at this repo:
+"""
 
 import os
 
 # Change this line if you have games installed elsewhere
-STEAMAPPS = 'C:/Program Files (x86)/Steam/steamapps/common/'
+# STEAMAPPS = 'C:/Program Files (x86)/Steam/steamapps/common/'
+STEAMAPPS = '/mnt/steamgames/SteamLibrary/steamapps/common/'
 
-GAMESTATE = os.path.join(STEAMAPPS, 'Half-Life 2/hl2/gamestate.txt')
+GAMESTATE = os.path.join(STEAMAPPS, 'Half-Life 2/hl2_complete/gamestate.txt')
 
 # Locations from https://steamcommunity.com/sharedfiles/filedetails/?id=145616679
 LOCATIONS = [
