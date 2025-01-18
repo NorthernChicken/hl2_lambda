@@ -7,8 +7,7 @@ It has been updated by NorthernChicken at this repo:
 import os
 
 # Change this line if you have games installed elsewhere
-# STEAMAPPS = 'C:/Program Files (x86)/Steam/steamapps/common/'
-STEAMAPPS = '/mnt/steamgames/SteamLibrary/steamapps/common/'
+STEAMAPPS = 'C:/Program Files (x86)/Steam/steamapps/common/'
 
 GAMESTATE = os.path.join(STEAMAPPS, 'Half-Life 2/hl2_complete/gamestate.txt')
 
