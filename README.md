@@ -8,6 +8,7 @@ I have updated the script with more QOL features as well as updating it to work 
 ## How to use
 Requires Python and Git.
 - Clone the repo in a terminal: ``git clone https://github.com/NorthernChicken/hl2_lambda``, enter the new directory ``cd hl2_lambda``
+- If you aren't using Windows or you installed Steam to a different drive/folder, you need to manually change the Steam directory variable. Open the python file in a text editor and change the ``STEAMAPPS`` variable to the path of your ``/steamapps/common`` folder. If you don't know where it is, open Steam>Settings>Storage>Three dots>Browse Folder. Make sure you copy the path of the ``common`` folder.
 - Run the script with ``python hl2_lambda``
 - Go to all the locations it tells you to and find the Caches for the achievement.
 
