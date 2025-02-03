@@ -47,7 +47,7 @@ LOCATIONS = [
     '#32 Nova Prospekt: map d2_prison_03',
     '#33 Nova Prospekt: map d2_prison_05',
     '#34 Entanglement: map d2_prison_06',
-    '#35 Anticitizen One: map 3_c17_02',
+    '#35 Anticitizen One: map d3_c17_02',
     '#36 Anticitizen One: map d3_c17_04',
     '#37 Anticitizen One: map d3_c17_05',
     '#38 Anticitizen One: map d3_c17_06a',
