@@ -37,7 +37,7 @@ LOCATIONS = [
     "#22 We Don't Go To Ravenholm...: map d1_town_01a",
     "#23 We Don't Go To Ravenholm...: map d1_town_05",
     '#24 Highway 17: map d2_coast_01',
-    '#25 Highway 17: map d2_coast_03,
+    '#25 Highway 17: map d2_coast_03',
     '#26 Highway 17: map d2_coast_04',
     '#27 Highway 17: map d2_coast_05',
     '#28 Highway 17: map d2_coast_07',
